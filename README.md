@@ -1,2 +1,5 @@
 # hello-world
-here is to create a new repository 
+
+Hi Humans!
+
+Nawal here, Mechanical engineer working in research & development 
